@@ -1,0 +1,21 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.34f1 (9a4c9c70452b) revision 10112156'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.17763) 64bit EnterpriseS' Language: 'ru' Physical Memory: 8044 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Unity\2020.3.33f1\2020.3.34f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity Ucheba, Game 3d/My Fox 2D
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55429
+Successfully changed project path to: D:/Unity Ucheba, Game 3d/My Fox 2D
+D:/Unity Ucheba, Game 3d/My Fox 2D
+Using Asset Import Pipeline V2.
